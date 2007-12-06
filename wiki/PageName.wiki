@@ -1,0 +1,16 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+This is the very beginning of this idea I have had.  Still in the planning phase.
+
+
+= Details =
+
+Things to do
+   * begin designing the interface using php on management interface.
+   * stress test box to determine maximum bandwidth it can handle and a benchmark of what the system will need for any given amount of bandwidth.
+
+Things done
+   * Have box built, kernel is running well and are able to filter traffic based on ip, port, protocol and mac.
+   
